@@ -833,7 +833,6 @@ PRODUCT_PACKAGES += \
     embmslibrary \
     izat.xt.srv \
     qcrilhook \
-    qti-telephony-common \
     uimlpalibrary \
     uimremotesimlocklibrary \
     vendor.qti.data.factory-V1.0-java \
