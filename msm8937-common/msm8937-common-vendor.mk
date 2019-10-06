@@ -44,6 +44,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8937-common/proprietary/etc/wfdconfigsink.xml:system/etc/wfdconfigsink.xml \
     vendor/xiaomi/msm8937-common/proprietary/framework/com.qti.dpmframework.jar:system/product/framework/com.qti.dpmframework.jar \
     vendor/xiaomi/msm8937-common/proprietary/framework/dpmapi.jar:system/product/framework/dpmapi.jar \
+    vendor/xiaomi/msm8937-common/proprietary/framework/WfdCommon.jar:system/framework/WfdCommon.jar \
     vendor/xiaomi/msm8937-common/proprietary/framework/tcmclient.jar:system/product/framework/tcmclient.jar \
     vendor/xiaomi/msm8937-common/proprietary/lib/com.qualcomm.qti.ant@1.0.so:system/lib/com.qualcomm.qti.ant@1.0.so \
     vendor/xiaomi/msm8937-common/proprietary/lib/com.qualcomm.qti.bluetooth_audio@1.0.so:system/lib/com.qualcomm.qti.bluetooth_audio@1.0.so \
